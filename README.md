@@ -96,7 +96,7 @@ Menos surpresas em auditorias
 Menos incidentes causados por descuido
 
 🚀 Uso básico
-python crawler.py -u https://example.com
+python Web-Crawler.py -u https://example.com
 
 
 Com mais controle:
